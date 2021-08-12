@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aspect-oriented-programming/aspect-oriented-programming.iml" filepath="$PROJECT_DIR$/aspect-oriented-programming/aspect-oriented-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reactiveprogramming/project-reactor-learning/project-reactor-learning.iml" filepath="$PROJECT_DIR$/reactiveprogramming/project-reactor-learning/project-reactor-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reactiveprogramming/reactive-programming.iml" filepath="$PROJECT_DIR$/reactiveprogramming/reactive-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-learning.iml" filepath="$PROJECT_DIR$/.idea/spring-learning.iml" />
+    </modules>
+  </component>
+</project>
